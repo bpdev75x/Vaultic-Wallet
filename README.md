@@ -14,7 +14,7 @@ A secure, web-based cryptocurrency wallet designed for Solana and Ethereum. Buil
 - Securely import existing wallets using a mneumonic phrase or private key.
 - Generate any number of fresh Solana and Ethereum wallets instantly.
 - Users retain full control over their private keys.
-- Directly integrates with the blockchain via Alchemy RPC
+- Directly integrates with the blockchain via Alchemy RPC.
 
 
 ## Core Technologies
